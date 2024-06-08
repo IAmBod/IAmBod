@@ -13,6 +13,6 @@
 </p>
 <p align="center">
     <a href="https://app.daily.dev/iambod">
-        <img src="./devcard.png" width="356" alt="Bödei Károly's Dev Card" />
+        <img src="https://github.com/IAmBod/IAmBod/blob/main/devcard.png" width="356" alt="Bödei Károly's Dev Card" />
     </a>
 </p>
