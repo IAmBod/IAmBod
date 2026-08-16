@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://dev.to/bod8" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bod8" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/iambod8" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambod8" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/iambod" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iambod" height="30" width="40" />
-    </a>
-</p>
+## Károly Bödei
+
+Engineering leader based in Budapest. Backend and platform work, with most of my time going to
+architecture, engineering standards, and AI-assisted development.
+
+Most of what I've built is client and internal work under NDA, so this profile is only the small
+visible slice — mostly Go tooling and experiments. The work with the numbers attached lives at
+**[iambod.dev](https://iambod.dev)**.
+
+Currently studying Applied AI and Data Science at MIT Professional Education.
+
+[CV (PDF)](https://iambod.dev/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/iambod/) · [info@iambod.dev](mailto:info@iambod.dev)
+
+---
+
 <p align="center">
     <a href="https://app.daily.dev/iambod">
         <img src="https://github.com/IAmBod/IAmBod/blob/main/devcard.png" width="356" alt="Bödei Károly's Dev Card" />
